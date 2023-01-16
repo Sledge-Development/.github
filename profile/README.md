@@ -3,7 +3,7 @@
 
 [Github 📚](https://github.com/orgs/Sledge-Development/repositories)
 
-[SledgeDevsTeam.log 🌐](SledgeDevsTeam.lol)
+[SledgeDevsTeam.lol 🌐](SledgeDevsTeam.lol)
 
 ## Check our team member 👨‍💻
 
