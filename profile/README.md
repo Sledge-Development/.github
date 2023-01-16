@@ -1,12 +1,15 @@
-## Hi there 👋
+## <center>✨Welcome to Sledge Hammer Development Team ✨</center>
+## Check our projects 🎯
 
-<!--
+[Github 📚](https://github.com/orgs/Sledge-Development/repositories)
 
-**Here are some ideas to get you started:**
+[SledgeDevsTeam.log 🌐](SledgeDevsTeam.lol)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Check our team member 👨‍💻
+
+[skylie2121-Data Analyst 🔬](https://github.com/orgs/Sledge-Development/people/skylie2121)
+
+[Ejayz-Full Stack Developer 💻](https://github.com/orgs/Sledge-Development/people/Ejayz)
+
+## Contact us ☎
+Currently you can contact us here in github 😊
